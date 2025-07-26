@@ -23,23 +23,6 @@
 - 💸 **Budget Management**: Select services and get a summarized budget view.
 - 🔐 **Secure Login/Registration**: Individual access and data protection.
 
-📂 Project Structure
-
-LME/
-├── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
-├── admin/
-├── customer/
-├── vendor/
-├── includes/
-├── database/
-│ └── lme.sql
-├── index.html / home.php
-├── login.php / register.php
-└── README.md
-
 ---
 
 ## 📌 Installation Steps
